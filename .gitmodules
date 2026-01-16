@@ -1,3 +1,6 @@
 [submodule "Midterm Project/water-potability-prediction"]
 	path = Midterm Project/water-potability-prediction
 	url = https://github.com/soumen7saha/water-potability-prediction.git
+[submodule "Capstone Project/IndFood-Image-Classification"]
+	path = Capstone Project/IndFood-Image-Classification
+	url = https://github.com/soumen7saha/IndFood-Image-Classification.git
