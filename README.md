@@ -2,4 +2,4 @@
  A practical course to build and deploy machine learning systems
 
 ## Statement of Accomplishment
-[](./statement_of_accomplishment.pdf)
+![](./statement_of_accomplishment.png)
